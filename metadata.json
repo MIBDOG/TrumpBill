@@ -1,0 +1,17 @@
+{
+  "name": "Trump Bill",
+  "symbol": "TrumpBill",
+  "description": "Trump's Big Beautiful Bill",
+  "image": "https://raw.githubusercontent.com/MIBDOG/TrumpBill/refs/heads/main/logo.png",
+  "decimals": 9,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MIBDOG/TrumpBill/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
